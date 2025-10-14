@@ -1,5 +1,10 @@
+import sys
+import os
 import pandas as pd
- 
+
+# Ajouter le dossier parent au PYTHONPATH pour que mon_projet soit trouvé
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from mon_projet.utils.helpers import extraire, transformer, analyse
 
 URL = "https://data.boston.gov/api/3/action/datastore_search?resource_id=31358fd1-849a-48e0-8285-e813f6efbdf1"
@@ -7,6 +12,7 @@ URL = "https://data.boston.gov/api/3/action/datastore_search?resource_id=31358fd
 def test_extract_returns_dataframe():
     df = extraire(URL)
     assert isinstance(df, pd.DataFrame)
+    assert len(df) > 0  # optionnel : vérifier qu'il y a des lignes
 
 def test_transform_converts_total_earnings():
     df = pd.DataFrame({"TOTAL EARNINGS": ["100", "abc", "200"]})
