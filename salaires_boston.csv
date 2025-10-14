@@ -1,0 +1,101 @@
+_id,NAME,DEPARTMENT_NAME,TITLE,REGULAR,RETRO,OTHER,OVERTIME,INJURED,DETAIL,QUINN/EDUCATION INCENTIVE,TOTAL EARNINGS,POSTAL
+1,"Williams,David C.",Boston Police Department,Police Officer,"95,184.68",,"503,025.78","45,176.88","5,307.62","24,610.00","4,375.69",677680.65,02356
+2,"Earley,John W",Boston Police Department,Police Lieutenant,"26,130.54","13,001.47","204,120.61",668.36,,440.00,"6,532.63",250893.61,02131
+3,"Bucelewicz,Helen",Boston Police Department,Police Officer,"8,676.89",,"200,000.00",,,,,208676.89,02135
+4,"Evans,William B",Boston Police Department,Commissioner (Bpd),"149,999.93","3,461.56","165,858.44",,,,,319319.93,02127
+5,"Jones,Ronnie C",Boston Police Department,Police Officer,"462,149.98",,"114,973.46",,,,,577123.44,02126
+6,"Buckley,Kevin J",Boston Police Department,Supn Bpd,"127,921.03","21,701.70","106,340.58",,,,"25,804.39",281767.7,02124
+7,"Washington,Walter",Boston Police Department,Police Officer,"313,154.27",,"99,893.17","45,337.30",,"31,556.00","4,378.77",494319.51,02368
+8,"Gannon,Sean O",Boston Police Department,Police Officer,"65,742.44",,"95,330.08",,,,"11,610.75",172683.27,02127
+9,"Harris,Joseph E",Boston Police Department,Supn Bpd,"64,887.95","22,635.01","92,348.76",,,,"12,166.49",192038.21,02186
+10,"Harris,Shawn N",Boston Police Department,Police Officer,"517,789.82",,"83,369.34","48,199.74",,"35,052.00",,684410.9,02130
+11,"Slavin,William J",Boston Police Department,Police Lieutenant,"35,092.86","15,541.43","78,931.31","8,676.25",,"5,280.00","6,655.48",150177.33,02081
+12,"Downing,George C",Boston Police Department,Police Officer,"417,664.03",,"78,599.22","29,567.40",,"11,040.00",,536870.65,02124
+13,"King,Peter",Boston Police Department,Police Lieutenant (Det),"71,361.50","11,457.29","78,143.52","21,503.95",,"54,725.00","11,814.92",249006.18,02368
+14,"Mulvey,Robert G",Boston Police Department,Police Sergeant (Det),"109,559.28","11,484.11","78,115.74","35,233.96",,"16,589.00","24,548.60",275530.69,02081
+15,"Crossen,Patrick J",Boston Police Department,Police Captain/DDC,"11,471.59","20,339.93","76,124.09","6,146.32",,,"1,620.16",115702.09,02190
+16,"Holmes,Lisa R.",Boston Police Department,Supn Bpd,"72,134.32","21,745.61","75,353.41",,,,"10,820.15",180053.49,02121
+17,"Jean,Harry Y",Boston Police Department,Police Detective,,,"69,535.11","1,131.60","94,553.27",,,165219.98,02124
+18,"O'Brien,Kenneth R",Boston Police Department,Police Sergeant (Det),"35,587.10","9,888.15","68,078.65","21,428.95",6.13,"9,010.00",,143998.98,02135
+19,"Facey,Delores E",Boston Police Department,Police Detective,"45,797.24",,"62,500.00","27,237.95",,,"9,159.48",144694.67,02368
+20,"Riley,Brian E",Boston Police Department,Police Sergeant (Det),"12,495.86","14,533.78","61,828.01",144.60,,,"1,874.38",90876.63,02324
+21,"Rorie,Dennis",Boston Police Department,Police Officer,"94,271.88",,"60,452.21","18,049.05",,,"21,673.41",194446.55,02151
+22,"Handrahan,Mark R",Boston Police Department,Police Sergeant (Det),"83,176.59","10,123.22","59,712.31","18,628.63",,"19,716.00","14,419.76",205776.51,02127
+23,"McDonough,John M.",Boston Police Department,Police Sergeant (Det),"13,007.99","13,981.26","58,674.14",433.80,,,"2,439.00",88536.19,02132
+24,"Thomas,Isaac L",Boston Police Department,Police Sergeant (Det),"57,867.01","5,914.94","58,341.54","7,010.64","1,223.86",,,130357.99,02123
+25,"Gaddy,Kim L.",Boston Police Department,Police Sergeant (Det),"12,935.69","14,066.92","53,661.34","2,169.00",,,"2,208.54",85041.49,02130
+26,"Amoroso,Ralph Frederick",Boston Police Department,Police Officer,-374.87,,"53,602.88",,"28,490.27",,,81718.28,02148
+27,"Westhaver,Kenneth",Boston Police Department,Police Detective,"72,612.21",,"51,803.02","47,111.76",,"27,140.00","12,785.39",211452.38,02368
+28,"McGill,Kevin J",Boston Police Department,Police Detective,"53,390.40",,"49,554.63","30,732.57",,368.00,"11,317.63",145363.23,02043
+29,"Connolly,John J",Boston Police Department,Police Officer,"73,718.27",,"49,095.38","12,085.23",,"17,296.00","13,195.24",165390.12,02339
+30,"Graham-Smith,Loletha",Boston Police Department,Police Officer,"95,176.72",,"49,031.61","68,234.65",,"36,156.00","3,759.55",252358.53,02124
+31,"O'Brien,Paul F",Boston Police Department,Police Officer,"66,976.65",,"48,551.08","1,757.17",,,"11,793.01",129077.91,02360
+32,"Bates,John J",Boston Police Department,Police Officer,"26,237.79",,"48,042.41",,,"4,968.00","4,460.46",83708.66,02136
+33,"Coffey,Paul J",Boston Police Department,Police Detective,"61,556.23",,"48,014.26","12,459.30",,"4,094.00","10,530.23",136654.02,02132
+34,"Smith,Tony",Boston Police Department,Police Detective,"62,542.18",,"47,866.85","19,253.61",,,"13,288.55",142951.19,02072
+35,"Desroches,Ernest",Boston Police Department,Police Officer,"87,949.11",,"47,290.80","36,318.01","3,942.27","45,310.00",,220810.19,02136
+36,"Blair,Steven F",Boston Police Department,Police Detective,"29,668.30",,"46,199.30","27,605.94",,,"6,304.50",109778.04,02184
+37,"Harrington,Richard F",Boston Police Department,Police Officer,"25,262.54",,"46,106.02","34,495.73",,,"5,368.34",111232.63,02124
+38,"Forbes,Gretta",Boston Police Department,Police Officer,,,"45,672.45",,"47,577.79",,"8,088.27",101338.51,02136
+39,"Boyle,Christopher R.",Boston Police Department,Police Detective,"55,719.42",,"45,177.07",452.58,,,"11,994.41",113343.48,02184
+40,"Chin,Gene C",Boston Police Department,Police Officer,"11,902.19",,"45,141.01","2,999.69",,"3,956.00",,63998.89,02356
+41,"Kelly,Charles G",Boston Police Department,Police Lieutenant,"47,519.96","19,622.10","44,974.26",,,,"9,339.72",121456.04,02131
+42,"Joyce,John M Michael",Boston Police Department,Police Detective,"55,228.68",,"44,870.87","18,551.11",,"17,296.00","9,366.13",145312.79,01801
+43,"Waggett,Margaret A",Boston Police Department,Police Officer,,,"43,336.43",,"45,900.25",,,89236.68,01776
+44,"Solari,Hugh R",Boston Police Department,Police Sergeant/Hackney Invest,"3,694.46","12,175.82","43,253.84",,,,599.10,59723.22,01803
+45,"Walsh,Francis J.",Boston Police Department,Police Offc Acad Instr 2$6,"9,473.81",,"43,193.76",477.33,,,"1,320.78",54465.68,02043
+46,"Boyce,Gerard E.",Boston Police Department,Police Offc Hackney Invest 3$8,"3,131.44",,"41,361.32",,,,460.40,44953.16,02053
+47,"Collier,George M",Boston Police Department,Police Lieutenant,"62,044.95","20,723.43","40,605.63","1,567.50",,220.00,"12,372.00",137533.51,02129
+48,"Fleming,Edward J",Boston Police Department,Police Officer,"10,849.87",,"40,592.55","2,818.72",,"10,672.00","1,844.49",66777.63,02360
+49,"Creelman,Leah",Boston Police Department,Police Detective,"45,955.29",,"40,115.00","9,007.05",,,,95077.34,02131
+50,"MacGillivray,Ronald Thomas",Boston Police Department,Police Officer,"9,683.97",,"40,014.45",,,,"2,057.86",51756.28,02122
+51,"Bausemer,Daniel P",Boston Police Department,Police Sergeant,"78,705.20",,"39,987.36","16,333.65",,184.00,"17,819.76",153029.97,02124
+52,"Cataldo,David R",Boston Police Department,Police Detective,"39,597.88",,"38,899.19","13,064.89",,,"6,731.70",98293.66,02035
+53,"Murphy,Margaret A.",Boston Police Department,Police Detective,"38,975.00",,"38,815.19","10,709.47",,,"6,625.80",95125.46,01772
+54,"Lee,Benny B",Boston Police Department,Police Officer,"90,340.57",,"38,401.31","34,250.61",,"82,478.00","20,553.18",266023.67,02134
+55,"Colon,Robert",Boston Police Department,Police Offc/FgrPrt Ev Tch 4$10,"16,524.21",,"37,019.40",,,,"2,809.08",56352.69,02136
+56,"Smart,Jerome D.",Boston Police Department,Police Offc Comm Serv Offc 3$8,"45,920.51",,"36,261.13","13,378.08",,"10,626.00",,106185.72,02119
+57,"Flagg,Charles F",Boston Police Department,Police Officer,,,"35,965.75",,"64,810.36",,"11,446.40",112222.51,02169
+58,"Foley,Renee M",Boston Police Department,Police Officer,430.27,,"35,696.06",,"64,042.20",,"11,489.49",111658.02,02048
+59,"Donovan,Michael R.",Boston Police Department,Police Sergeant,"114,216.09","14,890.32","35,417.06","51,031.82",,"7,738.00","20,491.00",243784.29,02122
+60,"Brennan,Thomas G",Boston Police Department,Police Sergeant,,"23,116.92","35,393.44",,,,,58510.36,02136
+61,"Orne,Spencer",Boston Police Department,Police Offc Hackney Invest 3$8,"3,433.84",,"35,214.91",,,,,38648.75,02368
+62,"Lenane,Ryan",Boston Police Department,Police Officer,,,"34,686.21",,"55,788.89",,,90475.1,02026
+63,"McBride,David C",Boston Police Department,Police Officer,"27,084.50",,"33,610.74",521.68,,,,61216.92,02301
+64,"Fish,Michael A.",Boston Police Department,PoliceSergeant/SupvCourtCases,"36,177.49","6,549.86","33,111.15",,"4,551.58",,"7,054.84",87444.92,34114
+65,"Sexton,Thomas L",Boston Police Department,Police Sergeant (Det),"121,416.23","10,415.79","33,058.96","38,318.87",,"16,695.00","22,067.72",241972.57,02186
+66,"Kennedy,Joseph M",Boston Police Department,Police Detective,,,"32,709.66",,"1,779.68",,302.55,34791.89,01906
+67,"Feeney,Michael F.",Boston Police Department,Police Detective,"108,663.79",,"31,871.98","63,864.13",,"18,216.00",,222615.9,02186
+68,"Caulfield,Richard P",Boston Police Department,Police Officer Hdq Dispatch,"29,193.99",,"31,851.37","2,240.36",,,,63285.72,02135
+69,"Rose,Patrick M",Boston Police Department,Police Officer,"4,190.60",,"31,608.23",,,,,35798.83,02132
+70,"McHale,Tracy E",Boston Police Department,Police Officer,-344.22,,"31,195.17",,"79,876.14",,"18,126.89",128853.98,02136
+71,"Meade,Thomas E",Boston Police Department,Police Sergeant,"3,974.01","11,081.89","30,957.50",,,,596.10,46609.5,02072
+72,"Hart,Irene",Boston Police Department,Police Officer,"10,369.81",,"29,412.93",,,,"2,203.60",41986.34,02124
+73,"Nee,Thomas J",Boston Police Department,Police Officer,"94,271.88",,"28,678.34","20,327.29",,"51,060.00","17,338.76",211676.27,02171
+74,"Whalen,Richard L",Boston Police Department,Police Detective,"99,632.56",,"28,327.52","68,080.30",,"35,926.00","22,905.95",254872.33,02062
+75,"Daley,John J",Boston Police Department,Supn Bpd,"195,601.09","13,916.16","26,189.75",,,,,235707.0,02050
+76,"Taglieri,Harmony A",Boston Police Department,Police Officer,,,"25,773.31",,"9,610.80",,816.90,36201.01,02136
+77,"Grace,Pamela A.",Boston Police Department,Police Sergeant,"41,591.52","11,607.80","25,398.09","1,006.80",,,"6,304.54",85908.75,02132
+78,"Bailey,Gerard W",Boston Police Department,Dep Supn (Bpd),"168,729.66","19,746.21","25,138.09",,,,"36,643.63",250257.59,02171
+79,"Ridge,William G.",Boston Police Department,Supn Bpd,"188,023.35","21,452.47","25,112.75",,,,"40,830.00",275418.57,02066
+80,"Lydon,Colm P.",Boston Police Department,Supn Bpd,"188,023.35","20,615.93","25,112.75",,,,"40,830.00",274582.03,02130
+81,"Mancini,Frank A",Boston Police Department,Supn Bpd,"188,023.35","21,703.24","25,062.75",,,,"40,830.00",275619.34,01949
+82,"Long,Gregory P",Boston Police Department,Supn-In Chief,"189,290.99","28,891.43","24,995.10",,,,"41,261.68",284439.2,02021
+83,"Hayward,Paul E.",Boston Police Department,Police Officer,"33,660.21",,"24,503.45",,,,"7,152.86",65316.52,02132
+84,"Chapman,Michael A.",Boston Police Department,Police Lieut/Acad Instr,"92,397.90","12,944.90","23,728.85",,,,"19,838.46",148910.11,02062
+85,"Webb,Keith A",Boston Police Department,Police Sergeant (Det),"124,558.74","14,022.79","23,682.31","129,489.51",,"63,388.00","28,298.46",383439.81,02121
+86,"Hasson,James G",Boston Police Department,Police Captain (Det),"158,810.54","16,470.88","23,656.67","44,687.54",182.23,"48,180.00","36,077.51",328065.37,02125
+87,"Dowd,Thomas A",Boston Police Department,Police Captain (Det),"158,810.54","13,549.02","23,656.67","25,120.96",,,"36,077.51",257214.7,02780
+88,"Russell,Paul J.",Boston Police Department,Police Captain/DDC,"155,886.37","18,789.80","23,647.73","74,087.34",260.21,"9,300.00","34,947.70",316919.15,02050
+89,"Donovan,Beth E",Boston Police Department,Dep Supn (Bpd),"139,979.75","21,506.84","23,597.36",,"16,991.44",,"5,578.33",207653.72,02122
+90,"Hosein,Haseeb",Boston Police Department,Police Captain/DDC,"155,886.37","19,026.91","23,506.48","73,470.94",,"92,160.00","34,947.70",398998.4,02186
+91,"Connolly,Timothy",Boston Police Department,Police Captain/DDC,"155,886.50","20,538.33","23,506.48","79,456.14",,"25,320.00","34,947.70",339655.15,02186
+92,"Davin,John J",Boston Police Department,Police Captain/DDC,"155,886.37","19,149.85","23,506.48","70,067.15",,"4,020.00","34,947.70",307577.55,02053
+93,"Sexton,Richard",Boston Police Department,Police Captain/DDC,"155,886.50","18,206.91","23,456.48","48,003.74",,"24,540.00","34,947.70",305041.33,02184
+94,"Gillespie,Joseph G.",Boston Police Department,Police Captain/DDC,"155,886.37","18,553.86","23,456.48","53,173.99",,"8,700.00","34,947.70",294718.4,02132
+95,"McLaughlin,Steven P",Boston Police Department,Police Captain/DDC,"155,886.37","18,264.10","23,456.48","53,631.62",,,"34,947.70",286186.27,02035
+96,"Danilecki,John H",Boston Police Department,Police Captain,"155,283.95","19,272.18","23,421.44","53,451.69",63.45,"60,720.00","34,816.68",347029.39,02081
+97,"Fong,Kenneth",Boston Police Department,Police Captain/DDC,"154,669.92","27,842.05","23,371.83","55,569.75",,,"34,708.49",296162.04,01741
+98,"Gaughan,James M",Boston Police Department,Police Captain,"151,953.22","17,145.33","22,886.96","39,335.07",,,"34,069.28",265389.86,02032
+99,"McGoldrick,Kevin J",Boston Police Department,Dep Supn (Bpd),"143,987.62","15,449.58","22,732.64","27,310.87",,"2,200.00","32,467.17",244147.88,02170
+100,"Walcott,Jeffrey I",Boston Police Department,Dep Supn (Bpd),"168,729.66","18,449.91","22,638.09",,,,"29,314.88",239132.54,02118
