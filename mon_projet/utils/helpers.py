@@ -10,16 +10,13 @@ def extraire(url: str) -> pd.DataFrame:
     return pd.DataFrame(records)
 
 def transformer(df: pd.DataFrame) -> pd.DataFrame:
-    """Nettoie et transforme les données de salaires."""
     df = df.copy()
 
-    # Vérifie que la colonne existe bien
     if "TOTAL EARNINGS" not in df.columns:
-        print("⚠️ Colonne 'TOTAL EARNINGS' introuvable !")
+        print("Colonne 'TOTAL EARNINGS' introuvable !")
         print("Colonnes disponibles :", df.columns)
         return pd.DataFrame()
 
-    # Nettoie les valeurs : enlève $, , et espaces
     df["TOTAL EARNINGS"] = (
         df["TOTAL EARNINGS"]
         .astype(str)
@@ -27,13 +24,8 @@ def transformer(df: pd.DataFrame) -> pd.DataFrame:
         .str.strip()
     )
 
-    # Convertit en nombres
     df["TOTAL EARNINGS"] = pd.to_numeric(df["TOTAL EARNINGS"], errors="coerce")
-
-    # Supprime les lignes vides
     df = df.dropna(subset=["TOTAL EARNINGS"])
-
-    # Convertit en float64 propre
     df["TOTAL EARNINGS"] = df["TOTAL EARNINGS"].astype("float64")
 
     return df
